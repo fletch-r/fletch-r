@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0xATHERIS
-- 👀 I’m interested in Ethereum Blockchain
+  - A Frontend Developer from the UK.
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me @httpfleck
