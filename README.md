@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @0xATHERIS
-  - A Frontend Developer from the UK.
-- 🌱 I’m looking to collaborate on any projects
-- 📫 How to reach me @httpfleck
+- 👋 Hi, I’m a Frontend Developer from the UK.
