@@ -1,7 +1,7 @@
 ### Hi, I’m Andrew
 
 ### About me:
-* 👨‍💻 Currently maintaining my VSCode extension && writing hooks.
+* 👨‍💻 Currently maintaining my VSCode extension - Simple Commit.
 * 🇬🇧 Based in Manchester, England.
 
 ### Tech I'm passionate about:
