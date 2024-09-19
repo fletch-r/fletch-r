@@ -1,4 +1,4 @@
-### Hi, I’m Andrew
+<img src="![NameBanner](https://github.com/user-attachments/assets/5d74df6f-a7e2-4b08-b963-0789ba36dc35)" alt="Andrew Fletcher" />
 
 ### About me:
 * 👨‍💻 Currently maintaining my VSCode extension - Simple Commit.
