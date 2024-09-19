@@ -1,14 +1,4 @@
-<div style="
-background: #FFFFFF;
-border-radius: 10px;
-border: 2px solid #e0e0e0;
-box-shadow: 0 0 15px 2px #e0e0e060;
-display: flex;
-flex-direction: column;
-padding: 2rem;
-color: #555555;
-width: 100%;
-">
+<div style="background: #FFFFFF; border-radius: 10px; border: 2px solid #e0e0e0; box-shadow: 0 0 15px 2px #e0e0e060; display: flex; flex-direction: column; padding: 2rem; color: #555555; width: 100%;">
 
   <img src="NameBanner.svg" alt="Andrew Fletcher" style="margin-bottom: 1rem;" >
 
