@@ -1,4 +1,4 @@
-# ![NameBanner](NameBanner.svg)
+<!-- # ![NameBanner](NameBanner.svg) -->
 
 ## About Me
 
